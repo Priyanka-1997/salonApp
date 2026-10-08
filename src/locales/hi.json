@@ -1,0 +1,470 @@
+{
+  "common": {
+    "ok": "ठीक",
+    "goBack": "वापस जाएँ"
+  },
+  "auth": {
+    "errorTitle": "डेमो प्रमाणीकरण",
+    "invalidCredentials": "फ़ोन नंबर या पासवर्ड किसी डेमो खाते से मेल नहीं खाता।",
+    "phoneExists": "इस फ़ोन नंबर या ईमेल से पहले से खाता मौजूद है।"
+  },
+  "bookingConfirmation": {
+    "title": "बुकिंग पुष्टि!",
+    "subtitle": "सब तैयार है। सैलून में मिलते हैं!",
+    "date": "तारीख",
+    "time": "समय",
+    "services": "सेवाएँ",
+    "viewDetails": "विवरण देखें",
+    "amount": "भुगतान राशि",
+    "paidOnline": "ऑनलाइन भुगतान",
+    "queueNo": "कतार संख्या",
+    "peopleAhead": "आपसे पहले {{count}} लोग",
+    "waitingTime": "प्रतीक्षा समय",
+    "thanksPatience": "धैर्य के लिए धन्यवाद!",
+    "remindTitle": "हम याद दिलाएँगे!",
+    "remindBody": "आपकी बारी से पहले सूचना मिलेगी।",
+    "viewBooking": "मेरी बुकिंग देखें",
+    "backHome": "होम पर वापस",
+    "shareTitle": "बुकिंग साझा करें",
+    "shareSubtitle": "दोस्तों और परिवार को बताएँ।",
+    "shareMessage": "{{salon}} पर {{date}} को {{time}} — Book My Salon से!"
+  },
+  "bookSlot": {
+    "title": "समय स्लॉट चुनें",
+    "info": "जानकारी",
+    "selectDate": "तारीख चुनें",
+    "today": "आज",
+    "opensAt": "स्टोर सुबह 10:00 बजे खुलते हैं",
+    "selectedTime": "चुना समय",
+    "queueNo": "आपकी कतार सं.",
+    "confirm": "स्लॉट पुष्टि करें",
+    "cancelAnytime": "कभी भी रद्द कर सकते हैं",
+    "period": {
+      "morning": "सुबह",
+      "afternoon": "दोपहर",
+      "evening": "शाम"
+    }
+  },
+  "salonDetails": {
+    "notFound": "सैलून नहीं मिला।",
+    "reviews": "समीक्षाएँ",
+    "call": "कॉल",
+    "estWait": "अनुमानित प्रतीक्षा",
+    "inQueue": "कतार में",
+    "verified": "सत्यापित सैलून",
+    "min": "मिनट",
+    "topRated": "टॉप रेटेड सैलून",
+    "bookSubtitle": "समय चुनें और पुष्टि करें",
+    "barbersSoon": "बार्बर प्रोफ़ाइल जल्द।",
+    "reviewsSoon": "समीक्षाएँ जल्द।",
+    "tabs": {
+      "about": "परिचय",
+      "services": "सेवाएँ",
+      "barbers": "बार्बर",
+      "gallery": "गैलरी",
+      "reviews": "समीक्षाएँ"
+    },
+    "services": {
+      "haircut": "हेअरकट",
+      "haircutDesc": "स्टाइलिंग शामिल",
+      "beardTrim": "बियर्ड ट्रिम",
+      "beardTrimDesc": "हॉट टॉवेल फिनिश",
+      "hairWash": "हेअर वॉश",
+      "hairWashDesc": "शैम्पू और कंडीशनिंग",
+      "facial": "फेशियल",
+      "facialDesc": "डीप क्लींज और मसाज"
+    }
+  },
+  "appearance": {
+    "label": "थीम",
+    "system": "सिस्टम",
+    "light": "लाइट",
+    "dark": "डार्क"
+  },
+  "brand": {
+    "line1": "बुक माय",
+    "line2": "सैलून"
+  },
+  "nav": {
+    "app": "बुक माय सैलून",
+    "dashboard": "डैशबोर्ड",
+    "signup": "साइन अप",
+    "book": "बुक करें",
+    "queue": "कतार",
+    "login": "लॉग इन"
+  },
+  "splash": {
+    "tagline1": "कतार छोड़ें।",
+    "tagline2": "अपना स्लॉट बुक करें।",
+    "loading": "तैयारी की जा रही है..."
+  },
+  "home": {
+    "greeting": "नमस्ते, 👋",
+    "greetingSubtitle": "अपना पसंदीदा सैलून खोजें और बुक करें",
+    "searchPlaceholder": "सैलून, सेवा या इलाका खोजें...",
+    "categoriesTitle": "श्रेणियाँ",
+    "viewAll": "सभी देखें",
+    "categories": {
+      "haircut": "हेअरकट",
+      "beard": "बियर्ड",
+      "facial": "फेशियल",
+      "hairColor": "हेअर कलर",
+      "spa": "स्पा"
+    },
+    "nearbyTitle": "आस-पास के सैलून",
+    "open": "खुला",
+    "closed": "बंद",
+    "minWait": "मिनट प्रतीक्षा",
+    "inQueue": "कतार में",
+    "bookSlot": "स्लॉट बुक करें",
+    "noResults": "कोई सैलून नहीं मिला।",
+    "promoTitle": "फ्लैट 20% छूट",
+    "promoSubtitle": "पहली बुकिंग पर",
+    "promoCode": "BOOKNOW20",
+    "dismissPromo": "ऑफ़र बंद करें",
+    "tabs": {
+      "home": "होम",
+      "bookings": "बुकिंग",
+      "favorites": "पसंदीदा",
+      "offers": "ऑफ़र",
+      "profile": "प्रोफ़ाइल"
+    },
+    "title": "आस-पास के सैलून",
+    "subtitle": "स्लॉट बुक करें या लाइव कतार देखें — वही हरा और नारंगी थीम।",
+    "viewQueue": "कतार देखें",
+    "hindiFooter": "नमस्ते — हिंदी के लिए Noto Sans (फ़ॉंट जोड़ने पर)"
+  },
+  "booking": {
+    "title": "स्लॉट बुक करें",
+    "signedInAs": "नमस्ते, {{name}}",
+    "salonId": "सैलून ID",
+    "salonIdPlaceholder": "जैसे 1",
+    "preferredTime": "पसंदीदा समय",
+    "timePlaceholder": "आज शाम 5:30",
+    "confirm": "पुष्टि करें (डेमो)",
+    "alertTitle": "बुकिंग",
+    "alertMessage": "API तैयार होने पर createBooking() जोड़ें।",
+    "quickLinks": "और",
+    "browseSalons": "सैलून ब्राउज़ करें",
+    "viewQueueShort": "कतार देखें",
+    "logOut": "लॉग आउट"
+  },
+  "queue": {
+    "title": "लाइव कतार",
+    "liveTitle": "लाइव सैलून कतार",
+    "hint": "डेमो क्रम (बाद में 2 ऑनलाइन : 1 ऑफलाइन नियम)।"
+  },
+  "bookings": {
+    "title": "मेरी बुकिंग",
+    "subtitle": "आगामी और पिछली सैलून अपॉइंटमेंट देखें।",
+    "detailsTitle": "बुकिंग विवरण",
+    "notFound": "बुकिंग नहीं मिली।",
+    "cancel": "बुकिंग रद्द करें",
+    "tabs": {
+      "upcoming": "आगामी",
+      "past": "पिछली"
+    },
+    "empty": {
+      "upcoming": "कोई आगामी बुकिंग नहीं। शुरू करने के लिए सैलून बुक करें!",
+      "past": "अभी तक कोई पिछली बुकिंग नहीं।"
+    },
+    "status": {
+      "upcoming": "आगामी",
+      "completed": "पूर्ण",
+      "cancelled": "रद्द"
+    }
+  },
+  "cancelBooking": {
+    "title": "बुकिंग रद्द करें",
+    "subtitle": "क्या आप यह बुकिंग रद्द करना चाहते हैं? आप कभी भी नया स्लॉट बुक कर सकते हैं।",
+    "confirm": "हाँ, बुकिंग रद्द करें",
+    "successTitle": "बुकिंग रद्द",
+    "successMessage": "आपकी बुकिंग सफलतापूर्वक रद्द हो गई।"
+  },
+  "favorites": {
+    "title": "पसंदीदा",
+    "subtitle": "जिन सैलून को आपने सेव किया है।",
+    "empty": "अभी कोई पसंदीदा नहीं। सेव करने के लिए सैलून पर दिल दबाएँ।"
+  },
+  "offers": {
+    "title": "ऑफ़र",
+    "subtitle": "आपके लिए विशेष डील और प्रोमो कोड।",
+    "validUntil": "{{date}} तक मान्य",
+    "copiedTitle": "कोड कॉपी हुआ",
+    "copiedMessage": "चेकआउट पर {{code}} कोड का उपयोग करें।",
+    "items": {
+      "first": {
+        "title": "फ्लैट 20% छूट — पहली बुकिंग",
+        "desc": "पहली सैलून बुकिंग पर 20% छूट। केवल नए उपयोगकर्ता।"
+      },
+      "weekend": {
+        "title": "वीकेंड स्पेशल — 15% छूट",
+        "desc": "शनिवार या रविवार को कोई भी स्लॉट बुक करें और 15% बचाएँ।"
+      },
+      "referral": {
+        "title": "रेफर करें और ₹100 कमाएँ",
+        "desc": "दोस्त को आमंत्रित करें और दोनों को अगली बुकिंग पर ₹100 छूट।"
+      }
+    }
+  },
+  "forgotPassword": {
+    "title": "पासवर्ड भूल गए",
+    "subtitle": "अपना पंजीकृत मोबाइल नंबर दर्ज करें। पासवर्ड रीसेट के लिए OTP भेजेंगे।",
+    "sendOtp": "OTP भेजें",
+    "resetTitle": "पासवर्ड रीसेट",
+    "resetSubtitle": "अपने खाते के लिए नया पासवर्ड बनाएँ।",
+    "savePassword": "पासवर्ड सहेजें",
+    "successTitle": "पासवर्ड अपडेट",
+    "successMessage": "आपका पासवर्ड रीसेट हो गया। नए पासवर्ड से लॉग इन करें।"
+  },
+  "legal": {
+    "termsTitle": "नियम और शर्तें",
+    "privacyTitle": "गोपनीयता नीति",
+    "lastUpdated": "अंतिम अपडेट: मई 2026",
+    "terms": {
+      "intro": "Book My Salon में आपका स्वागत है। ऐप का उपयोग करके आप इन शर्तों से सहमत होते हैं।",
+      "usage": "सही संपर्क विवरण दें। एक मोबाइल पर एक खाता। दुरुपयोग या नकली बुकिंग से खाता निलंबित हो सकता है।",
+      "bookings": "बुकिंग सैलून उपलब्धता पर निर्भर है। स्लॉट से 30 मिनट पहले तक रद्द कर सकते हैं।",
+      "liability": "Book My Salon ग्राहकों को सैलून से जोड़ता है। सेवा की गुणवत्ता के लिए सैलून जिम्मेदार है।"
+    },
+    "privacy": {
+      "intro": "Book My Salon आपकी गोपनीयता का सम्मान करता है। यह नीति बताती है कि हम कौन सा डेटा एकत्र करते हैं।",
+      "data": "हम नाम, मोबाइल, ईमेल, बुकिंग इतिहास और स्थान (नज़दीकी सैलून खोजते समय) एकत्र करते हैं।",
+      "sharing": "हम आपका डेटा नहीं बेचते। बुकिंग विवरण केवल संबंधित सैलून के साथ साझा होता है।",
+      "rights": "आप प्रोफ़ाइल अपडेट कर सकते हैं, पते हटा सकते हैं और सूचनाएँ बंद कर सकते हैं।"
+    }
+  },
+  "editProfile": {
+    "title": "प्रोफ़ाइल संपादित करें",
+    "save": "परिवर्तन सहेजें",
+    "savedTitle": "प्रोफ़ाइल अपडेट",
+    "savedMessage": "आपकी प्रोफ़ाइल सफलतापूर्वक सहेजी गई।"
+  },
+  "payment": {
+    "title": "भुगतान विधि",
+    "subtitle": "सहेजे गए UPI और कार्ड प्रबंधित करें।",
+    "default": "डिफ़ॉल्ट",
+    "addSoon": "नई भुगतान विधि जल्द उपलब्ध होगी।"
+  },
+  "addresses": {
+    "title": "सहेजे गए पते",
+    "add": "नया पता जोड़ें",
+    "save": "पता सहेजें",
+    "labelPlaceholder": "लेबल (घर, ऑफिस…)",
+    "linePlaceholder": "गली का पता",
+    "cityPlaceholder": "शहर, राज्य",
+    "pinPlaceholder": "पिन कोड",
+    "removeTitle": "पता हटाएँ",
+    "removeMessage": "यह सहेजा गया पता हटाएँ?",
+    "removeConfirm": "हटाएँ"
+  },
+  "notifications": {
+    "title": "सूचनाएँ",
+    "subtitle": "चुनें कि आप कौन सी अलर्ट चाहते हैं।",
+    "bookingReminders": "बुकिंग रिमाइंडर",
+    "queueUpdates": "कतार स्थिति अपडेट",
+    "offers": "ऑफ़र और प्रमोशन",
+    "smsAlerts": "SMS अलर्ट"
+  },
+  "help": {
+    "title": "सहायता और समर्थन",
+    "call": "कॉल करें",
+    "email": "ईमेल",
+    "whatsapp": "WhatsApp",
+    "whatsappAction": "WhatsApp पर चैट करें",
+    "faqTitle": "अक्सर पूछे जाने वाले प्रश्न",
+    "faq": {
+      "booking": {
+        "q": "सैलून स्लॉट कैसे बुक करें?",
+        "a": "सैलून खोलें, सेवाएँ चुनें, Book Slot दबाएँ, तारीख और समय चुनें, फिर OTP से पुष्टि करें।"
+      },
+      "cancel": {
+        "q": "क्या मैं बुकिंग रद्द कर सकता हूँ?",
+        "a": "हाँ। My Bookings में जाएँ, बुकिंग खोलें और Cancel Booking दबाएँ।"
+      },
+      "payment": {
+        "q": "भुगतान कैसे होता है?",
+        "a": "बुकिंग पुष्टि पर ऑनलाइन या सैलून पर भुगतान करें। Payment Methods में UPI/कार्ड प्रबंधित करें।"
+      },
+      "queue": {
+        "q": "लाइव कतार क्या है?",
+        "a": "कतार में आपकी स्थिति दिखती है। ऑनलाइन बुकिंग को 2 ऑनलाइन : 1 वॉक-इन नियम से प्राथमिकता मिलती है।"
+      }
+    }
+  },
+  "about": {
+    "title": "के बारे में",
+    "version": "संस्करण {{version}}",
+    "description": "Book My Salon से कतार छोड़ें और पसंदीदा सैलून सेकंडों में बुक करें। ग्रेटर नोएडा और आसपास के लिए।",
+    "madeIn": "भारत में प्रेम से बनाया गया"
+  },
+  "profile": {
+    "title": "मेरी प्रोफ़ाइल",
+    "defaultName": "राहुल शर्मा",
+    "location": "ग्रेटर नोएडा, UP",
+    "premium": "प्रीमियम सदस्य",
+    "nextBooking": "अगली बुकिंग",
+    "nextDate": "मंगल, 21 मई 2024",
+    "nextTime": "04:30 PM",
+    "queueLabel": "कतार सं. #{{no}}",
+    "estWait": "अनुमानित प्रतीक्षा: {{min}} मिनट",
+    "stats": {
+      "bookings": "मेरी बुकिंग",
+      "upcoming": "आगामी",
+      "favorites": "पसंदीदा",
+      "offers": "ऑफ़र"
+    },
+    "menu": {
+      "edit": "प्रोफ़ाइल संपादित करें",
+      "payment": "भुगतान विधि",
+      "address": "पता",
+      "notifications": "सूचनाएँ",
+      "help": "सहायता",
+      "about": "Book My Salon के बारे में",
+      "logout": "लॉग आउट"
+    }
+  },
+  "login": {
+    "welcome": "वापस स्वागत है!",
+    "welcomeSubtitle": "पसंदीदा सैलून बुक करने के लिए लॉग इन करें।",
+    "brandTagline": "कतार छोड़ें। स्लॉट बुक करें।",
+    "mobilePlaceholder": "मोबाइल नंबर दर्ज करें",
+    "whatsapp": "WhatsApp से लॉगिन",
+    "features": {
+      "skipQueue": "कतार छोड़ें",
+      "saveTime": "समय बचाएँ",
+      "topRated": "टॉप रेटेड सैलून",
+      "nearby": "आपके पास",
+      "secure": "सुरक्षित और आसान",
+      "bookings": "बुकिंग"
+    }
+  },
+  "phoneLogin": {
+    "title": "फ़ोन से साइन इन",
+    "subtitle": "सत्यापन के लिए एक बार का कोड भेजेंगे।",
+    "mobile": "मोबाइल नंबर",
+    "mobilePlaceholder": "+91 98765 43210",
+    "sendOtp": "OTP भेजें",
+    "newCustomer": "नया ग्राहक?"
+  },
+  "otp": {
+    "screenTitle": "OTP दर्ज करें",
+    "title": "OTP सत्यापित करें",
+    "subtitle": "6 अंकों का कोड दर्ज करें, भेजा गया",
+    "editPhone": "नंबर बदलें",
+    "secureNote": "आपकी जानकारी सुरक्षित है",
+    "noCode": "कोड नहीं मिला?",
+    "resendIn": "{{time}} में OTP दोबारा भेजें",
+    "resendNow": "OTP दोबारा भेजें",
+    "smsBanner": "हमने आपके मोबाइल नंबर पर OTP भेजा है।",
+    "verify": "सत्यापित करें और जारी रखें",
+    "bookingHint": "स्लॉट: {{slot}}",
+    "validity": "आपका OTP सीमित समय के लिए मान्य है।",
+    "invalidStubCode": "गलत टेस्ट कोड। डेमो खातों के लिए 123456 दर्ज करें।"
+  },
+  "credentials": {
+    "welcomeBrand": "बुक माय सैलून",
+    "screenTitle": "साइन इन",
+    "subtitle": "अपना ईमेल और पासवर्ड दर्ज करें।",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "continueWithGoogle": "Google के साथ जारी रखें",
+    "orWithEmail": "या ईमेल से",
+    "email": "ईमेल",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें",
+    "otp": "OTP",
+    "otpPlaceholder": "123456",
+    "password": "पासवर्ड",
+    "passwordPlaceholder": "अपना पासवर्ड दर्ज करें",
+    "signIn": "साइन इन",
+    "noAccount": "खाता नहीं है?",
+    "signUpLink": "साइन अप"
+  },
+  "signup": {
+    "title": "अपना खाता बनाएँ",
+    "subtitle": "पसंदीदा सैलून बुक करने के लिए साइन अप करें।",
+    "dividerOr": "या",
+    "resendOtp": "OTP दोबारा भेजें",
+    "otpPlaceholderShort": "0000",
+    "name": "पूरा नाम",
+    "namePlaceholder": "अपना पूरा नाम दर्ज करें",
+    "email": "ईमेल (वैकल्पिक)",
+    "emailPlaceholder": "ईमेल दर्ज करें",
+    "passwordPlaceholder": "पासवर्ड बनाएँ",
+    "confirmPassword": "पासवर्ड पुष्टि",
+    "confirmPasswordPlaceholder": "पासवर्ड की पुष्टि करें",
+    "submit": "साइन अप",
+    "whatsapp": "WhatsApp से साइन अप",
+    "google": "Google से साइन अप",
+    "termsPrefix": "मैं सहमत हूँ",
+    "terms": "नियम और शर्तें",
+    "termsAnd": "और",
+    "privacy": "गोपनीयता नीति",
+    "haveAccount": "पहले से खाता है?",
+    "signInLink": "लॉग इन",
+    "errorTitle": "पासवर्ड जाँचें",
+    "passwordMismatch": "पासवर्ड और पुष्टि मेल खानी चाहिए।"
+  },
+  "customerSignup": {
+    "title": "खाता बनाएँ",
+    "subtitle": "अपना खाता बनाएँ और बुकिंग शुरू करें\nअपने पसंदीदा सैलून आसानी से बुक करें।",
+    "phone": "मोबाइल नंबर",
+    "email": "ईमेल पता (वैकल्पिक)",
+    "continue": "जारी रखें"
+  },
+  "customerLogin": {
+    "title": "ग्राहक के रूप में जारी रखें",
+    "subtitle": "जारी रखने के लिए अपना मोबाइल नंबर दर्ज करें",
+    "google": "Google के साथ जारी रखें",
+    "legal": "जारी रखने पर आप हमारी शर्तों से सहमत होते हैं",
+    "createAccount": "खाता बनाएँ"
+  },
+  "roleSelection": {
+    "title": "अपनी भूमिका चुनें",
+    "subtitle": "चुनें कि आप Book My Salon का उपयोग कैसे करना चाहते हैं",
+    "customer": "ग्राहक",
+    "customerDesc": "अपने पास सैलून सेवाएँ खोजें और बुक करें",
+    "customerFeature1": "पास के सैलून देखें",
+    "customerFeature2": "आसानी से स्लॉट बुक करें",
+    "customerFeature3": "बुकिंग रिमाइंडर पाएं",
+    "shopkeeper": "सैलून मालिक",
+    "shopkeeperDesc": "अपना सैलून सूचीबद्ध करें और बुकिंग प्रबंधित करें",
+    "ownerFeature1": "अपना सैलून पंजीकृत करें",
+    "ownerFeature2": "बुकिंग प्रबंधित करें",
+    "ownerFeature3": "अपने व्यवसाय को बढ़ाएं",
+    "continue": "जारी रखें",
+    "footer": "आप बाद में सेटिंग्स से अपनी भूमिका बदल सकते हैं।"
+  },
+  "shopkeeperAuth": {
+    "loginTitle": "दुकानदार लॉग इन",
+    "loginSubtitle": "अपनी सैलून कतार और बुकिंग प्रबंधित करें",
+    "signupTitle": "अपना सैलून पंजीकृत करें",
+    "signupSubtitle": "कतार और बुकिंग प्रबंधन शुरू करें",
+    "ownerName": "मालिक का नाम",
+    "ownerNamePlaceholder": "अपना नाम दर्ज करें",
+    "salonName": "सैलून का नाम",
+    "salonNamePlaceholder": "सैलून का नाम दर्ज करें",
+    "address": "पता",
+    "addressPlaceholder": "सैलून का पता दर्ज करें",
+    "services": "सेवाएँ",
+    "servicesPlaceholder": "जैसे, हेअरकट, शेव, बियर्ड ट्रिम",
+    "workingHours": "कार्य समय",
+    "workingHoursPlaceholder": "जैसे, सुबह 9:00 - रात 9:00",
+    "registerCta": "सैलून रजिस्टर करें",
+    "newOwner": "नए सैलून मालिक?",
+    "registerLink": "अपना सैलून रजिस्टर करें",
+    "alreadyRegistered": "पहले से पंजीकृत?",
+    "signInLink": "साइन इन"
+  },
+  "perks": {
+    "caption": "भारत भर के 500+ सैलून पर भरोसा",
+    "verified": "सत्यापित सैलून",
+    "queue": "लाइव कतार अपडेट",
+    "booking": "तुरंत बुकिंग"
+  },
+  "language": {
+    "title": "भाषा",
+    "labelShort": "भाषा",
+    "choose": "अपनी भाषा चुनें",
+    "current": "वर्तमान"
+  }
+}

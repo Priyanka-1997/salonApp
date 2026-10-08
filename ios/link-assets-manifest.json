@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter-Bold.ttf",
+      "sha1": "17f39f562dcb6d6e1b5a6ed1af3ff6db1225686f"
+    },
+    {
+      "path": "assets/fonts/Inter-Medium.ttf",
+      "sha1": "25f92f36c67592cc486ed8415dda42b2fd2a197c"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "11005a1c812e389a483f2afaef4cef4c96739f62"
+    },
+    {
+      "path": "assets/fonts/NotoSansDevanagari-Regular.ttf",
+      "sha1": "747c9e28e81473c47bcb4ab2fab7978f7c8e459c"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "86a425be5a919d86729b85b2bc1d07da5ce413d4"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "622ca6ccbe2f22c5611dffa016b745bd26be154c"
+    }
+  ]
+}

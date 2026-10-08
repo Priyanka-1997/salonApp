@@ -1,0 +1,470 @@
+{
+  "common": {
+    "ok": "OK",
+    "goBack": "Go back"
+  },
+  "auth": {
+    "errorTitle": "Demo authentication",
+    "invalidCredentials": "Phone number or password does not match a demo account.",
+    "phoneExists": "An account already uses this phone number or email."
+  },
+  "bookingConfirmation": {
+    "title": "Booking Confirmed!",
+    "subtitle": "You're all set. See you at the salon!",
+    "date": "Date",
+    "time": "Time",
+    "services": "Services",
+    "viewDetails": "View Details",
+    "amount": "Amount Paid",
+    "paidOnline": "Paid Online",
+    "queueNo": "Queue Number",
+    "peopleAhead": "{{count}} people ahead of you",
+    "waitingTime": "Waiting Time",
+    "thanksPatience": "Thanks for your patience!",
+    "remindTitle": "We'll remind you!",
+    "remindBody": "You will receive a notification before your turn.",
+    "viewBooking": "View My Booking",
+    "backHome": "Back to Home",
+    "shareTitle": "Share your booking",
+    "shareSubtitle": "Invite your friends and family.",
+    "shareMessage": "Booked at {{salon}} on {{date}} at {{time}} via Book My Salon!"
+  },
+  "bookSlot": {
+    "title": "Choose Time Slot",
+    "info": "Info",
+    "selectDate": "Select Date",
+    "today": "Today",
+    "opensAt": "Stores open at 10:00 AM",
+    "selectedTime": "Selected Time",
+    "queueNo": "Your Queue No.",
+    "confirm": "Confirm Slot",
+    "cancelAnytime": "You can cancel anytime",
+    "period": {
+      "morning": "Morning",
+      "afternoon": "Afternoon",
+      "evening": "Evening"
+    }
+  },
+  "salonDetails": {
+    "notFound": "Salon not found.",
+    "reviews": "reviews",
+    "call": "Call",
+    "estWait": "Est. Wait",
+    "inQueue": "In Queue",
+    "verified": "Verified Salon",
+    "min": "min",
+    "topRated": "Top Rated Salon",
+    "bookSubtitle": "Choose time & confirm",
+    "barbersSoon": "Barber profiles coming soon.",
+    "reviewsSoon": "Reviews coming soon.",
+    "tabs": {
+      "about": "About",
+      "services": "Services",
+      "barbers": "Barbers",
+      "gallery": "Gallery",
+      "reviews": "Reviews"
+    },
+    "services": {
+      "haircut": "Haircut",
+      "haircutDesc": "Styling included",
+      "beardTrim": "Beard Trim",
+      "beardTrimDesc": "Hot towel finish",
+      "hairWash": "Hair Wash",
+      "hairWashDesc": "Shampoo & conditioning",
+      "facial": "Facial",
+      "facialDesc": "Deep cleanse & massage"
+    }
+  },
+  "appearance": {
+    "label": "Theme",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "brand": {
+    "line1": "Book My",
+    "line2": "Salon"
+  },
+  "nav": {
+    "app": "Book My Salon",
+    "dashboard": "Dashboard",
+    "signup": "Sign up",
+    "book": "Book",
+    "queue": "Queue",
+    "login": "Login"
+  },
+  "splash": {
+    "tagline1": "Skip the queue.",
+    "tagline2": "Book your slot.",
+    "loading": "Getting things ready..."
+  },
+  "home": {
+    "greeting": "Hello, 👋",
+    "greetingSubtitle": "Find & book your favorite salon",
+    "searchPlaceholder": "Search salon, service or area...",
+    "categoriesTitle": "Categories",
+    "viewAll": "View all",
+    "categories": {
+      "haircut": "Haircut",
+      "beard": "Beard",
+      "facial": "Facial",
+      "hairColor": "Hair Color",
+      "spa": "Spa"
+    },
+    "nearbyTitle": "Nearby Salons",
+    "open": "Open",
+    "closed": "Closed",
+    "minWait": "min wait",
+    "inQueue": "in queue",
+    "bookSlot": "Book Slot",
+    "noResults": "No salons match your search.",
+    "promoTitle": "Flat 20% OFF",
+    "promoSubtitle": "On your first booking",
+    "promoCode": "BOOKNOW20",
+    "dismissPromo": "Dismiss offer",
+    "tabs": {
+      "home": "Home",
+      "bookings": "Bookings",
+      "favorites": "Favorites",
+      "offers": "Offers",
+      "profile": "Profile"
+    },
+    "title": "Nearby salons",
+    "subtitle": "Book a slot or check live queue — same green & orange theme everywhere.",
+    "viewQueue": "View queue",
+    "hindiFooter": "नमस्ते — Hindi uses Noto Sans Devanagari when bundled."
+  },
+  "booking": {
+    "title": "Book a slot",
+    "signedInAs": "Hi, {{name}}",
+    "salonId": "Salon ID",
+    "salonIdPlaceholder": "e.g. 1",
+    "preferredTime": "Preferred time",
+    "timePlaceholder": "Today 5:30 PM",
+    "confirm": "Confirm (demo)",
+    "alertTitle": "Booking",
+    "alertMessage": "Wire createBooking() when API is ready.",
+    "quickLinks": "More",
+    "browseSalons": "Browse salons",
+    "viewQueueShort": "View queue",
+    "logOut": "Log out"
+  },
+  "queue": {
+    "title": "Live queue",
+    "liveTitle": "Live salon queue",
+    "hint": "Demo order (2 online : 1 offline rule later)."
+  },
+  "bookings": {
+    "title": "My Bookings",
+    "subtitle": "View upcoming and past salon appointments.",
+    "detailsTitle": "Booking Details",
+    "notFound": "Booking not found.",
+    "cancel": "Cancel Booking",
+    "tabs": {
+      "upcoming": "Upcoming",
+      "past": "Past"
+    },
+    "empty": {
+      "upcoming": "No upcoming bookings. Book a salon to get started!",
+      "past": "No past bookings yet."
+    },
+    "status": {
+      "upcoming": "Upcoming",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "cancelBooking": {
+    "title": "Cancel Booking",
+    "subtitle": "Are you sure you want to cancel this booking? You can book a new slot anytime.",
+    "confirm": "Yes, Cancel Booking",
+    "successTitle": "Booking Cancelled",
+    "successMessage": "Your booking has been cancelled successfully."
+  },
+  "favorites": {
+    "title": "Favorites",
+    "subtitle": "Salons you've saved for quick booking.",
+    "empty": "No favorites yet. Tap the heart on a salon to save it."
+  },
+  "offers": {
+    "title": "Offers",
+    "subtitle": "Exclusive deals and promo codes for you.",
+    "validUntil": "Valid until {{date}}",
+    "copiedTitle": "Code copied",
+    "copiedMessage": "Use code {{code}} at checkout.",
+    "items": {
+      "first": {
+        "title": "Flat 20% OFF — First Booking",
+        "desc": "Get 20% off on your first salon booking. New users only."
+      },
+      "weekend": {
+        "title": "Weekend Special — 15% OFF",
+        "desc": "Book any slot on Saturday or Sunday and save 15%."
+      },
+      "referral": {
+        "title": "Refer & Earn ₹100",
+        "desc": "Invite a friend and both get ₹100 off your next booking."
+      }
+    }
+  },
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your registered mobile number. We'll send an OTP to reset your password.",
+    "sendOtp": "Send OTP",
+    "resetTitle": "Reset Password",
+    "resetSubtitle": "Create a new password for your account.",
+    "savePassword": "Save Password",
+    "successTitle": "Password Updated",
+    "successMessage": "Your password has been reset. Please login with your new password."
+  },
+  "legal": {
+    "termsTitle": "Terms & Conditions",
+    "privacyTitle": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "terms": {
+      "intro": "Welcome to Book My Salon. By using our app you agree to these terms. Please read them carefully before booking a salon slot.",
+      "usage": "You must provide accurate contact details. One account per mobile number. Misuse, fake bookings, or queue manipulation may lead to account suspension.",
+      "bookings": "Bookings are subject to salon availability. You may cancel up to 30 minutes before your slot. No-shows may affect your queue priority.",
+      "liability": "Book My Salon connects customers with salons. We are not responsible for service quality at partner salons. For disputes, contact support."
+    },
+    "privacy": {
+      "intro": "Book My Salon respects your privacy. This policy explains what data we collect and how we use it.",
+      "data": "We collect your name, mobile number, optional email, booking history, and location (when you search nearby salons). OTP is used only for verification.",
+      "sharing": "We do not sell your data. Booking details are shared with the salon you book. Payment partners receive only transaction data.",
+      "rights": "You can update your profile, delete saved addresses, and opt out of marketing notifications in app settings. Contact support to request data deletion."
+    }
+  },
+  "editProfile": {
+    "title": "Edit Profile",
+    "save": "Save Changes",
+    "savedTitle": "Profile Updated",
+    "savedMessage": "Your profile has been saved successfully."
+  },
+  "payment": {
+    "title": "Payment Methods",
+    "subtitle": "Manage your saved UPI and cards.",
+    "default": "Default",
+    "addSoon": "Adding new payment methods will be available soon."
+  },
+  "addresses": {
+    "title": "Saved Addresses",
+    "add": "Add New Address",
+    "save": "Save Address",
+    "labelPlaceholder": "Label (Home, Work…)",
+    "linePlaceholder": "Street address",
+    "cityPlaceholder": "City, State",
+    "pinPlaceholder": "PIN code",
+    "removeTitle": "Remove Address",
+    "removeMessage": "Delete this saved address?",
+    "removeConfirm": "Remove"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "subtitle": "Choose what alerts you want to receive.",
+    "bookingReminders": "Booking reminders",
+    "queueUpdates": "Queue position updates",
+    "offers": "Offers & promotions",
+    "smsAlerts": "SMS alerts"
+  },
+  "help": {
+    "title": "Help & Support",
+    "call": "Call us",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "whatsappAction": "Chat on WhatsApp",
+    "faqTitle": "Frequently Asked Questions",
+    "faq": {
+      "booking": {
+        "q": "How do I book a salon slot?",
+        "a": "Open a salon, select services, tap Book Slot, choose date and time, then login and verify OTP to confirm."
+      },
+      "cancel": {
+        "q": "Can I cancel my booking?",
+        "a": "Yes. Go to My Bookings, open your booking, and tap Cancel Booking. You can rebook anytime."
+      },
+      "payment": {
+        "q": "How does payment work?",
+        "a": "Pay online at booking confirmation or at the salon. Saved UPI and cards can be managed in Payment Methods."
+      },
+      "queue": {
+        "q": "What is the live queue?",
+        "a": "The queue shows your position at the salon. Online bookings are prioritized with a 2 online : 1 walk-in rule."
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "version": "Version {{version}}",
+    "description": "Book My Salon helps you skip the queue and book your favorite local salons in seconds. Built for Greater Noida and beyond.",
+    "madeIn": "Made with care in India"
+  },
+  "profile": {
+    "title": "My Profile",
+    "defaultName": "Rahul Sharma",
+    "location": "Greater Noida, UP",
+    "premium": "Premium Member",
+    "nextBooking": "Next Booking",
+    "nextDate": "Tue, 21 May 2024",
+    "nextTime": "04:30 PM",
+    "queueLabel": "Queue No. #{{no}}",
+    "estWait": "Est. Wait: {{min}} min",
+    "stats": {
+      "bookings": "My Bookings",
+      "upcoming": "Upcoming",
+      "favorites": "Favorites",
+      "offers": "Offers"
+    },
+    "menu": {
+      "edit": "Edit Profile",
+      "payment": "Payment Methods",
+      "address": "Address",
+      "notifications": "Notifications",
+      "help": "Help & Support",
+      "about": "About Book My Salon",
+      "logout": "Logout"
+    }
+  },
+  "login": {
+    "welcome": "Welcome Back!",
+    "welcomeSubtitle": "Login to continue booking your favorite salons.",
+    "brandTagline": "Skip the Queue. Book Your Slot.",
+    "mobilePlaceholder": "Enter mobile number",
+    "whatsapp": "Login with WhatsApp",
+    "features": {
+      "skipQueue": "Skip the Queue",
+      "saveTime": "Save your time",
+      "topRated": "Top Rated Salons",
+      "nearby": "Nearby you",
+      "secure": "Secure & Easy",
+      "bookings": "Bookings"
+    }
+  },
+  "phoneLogin": {
+    "title": "Sign in with phone",
+    "subtitle": "We'll send a one-time code to verify your number.",
+    "mobile": "Mobile Number",
+    "mobilePlaceholder": "+91 98765 43210",
+    "sendOtp": "Send OTP",
+    "newCustomer": "New customer?"
+  },
+  "otp": {
+    "screenTitle": "Enter OTP",
+    "title": "Verify OTP",
+    "subtitle": "Enter the 6-digit code sent to",
+    "editPhone": "Edit phone number",
+    "secureNote": "Your information is secure with us",
+    "noCode": "Didn't receive the code?",
+    "resendIn": "Resend OTP in {{time}}",
+    "resendNow": "Resend OTP",
+    "smsBanner": "We've sent an OTP to your registered mobile number.",
+    "verify": "Verify & Continue",
+    "bookingHint": "Confirming slot: {{slot}}",
+    "validity": "Your OTP is valid for a limited time.",
+    "invalidStubCode": "Incorrect test code. Use 123456 for demo accounts."
+  },
+  "credentials": {
+    "welcomeBrand": "Book My Salon",
+    "screenTitle": "Sign in",
+    "subtitle": "Enter your email and password.",
+    "forgotPassword": "Forgot password?",
+    "continueWithGoogle": "Continue with Google",
+    "orWithEmail": "or with email",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "otp": "OTP",
+    "otpPlaceholder": "123456",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "signIn": "Sign in",
+    "noAccount": "Don't have an account?",
+    "signUpLink": "Sign up"
+  },
+  "signup": {
+    "title": "Create Your Account",
+    "subtitle": "Sign up to start booking your favorite salons.",
+    "dividerOr": "OR",
+    "resendOtp": "Resend OTP",
+    "otpPlaceholderShort": "0000",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address (Optional)",
+    "emailPlaceholder": "Enter email address",
+    "passwordPlaceholder": "Create a password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "submit": "Sign Up",
+    "whatsapp": "Sign up with WhatsApp",
+    "google": "Sign up with Google",
+    "termsPrefix": "I agree to the",
+    "terms": "Terms & Conditions",
+    "termsAnd": "and",
+    "privacy": "Privacy Policy",
+    "haveAccount": "Already have an account?",
+    "signInLink": "Login",
+    "errorTitle": "Check passwords",
+    "passwordMismatch": "Password and confirmation must match."
+  },
+  "customerSignup": {
+    "title": "Create Account",
+    "subtitle": "Create your account and start booking\nyour favourite salons easily.",
+    "phone": "Mobile Number",
+    "email": "Email Address (Optional)",
+    "continue": "Continue"
+  },
+  "customerLogin": {
+    "title": "Continue as Customer",
+    "subtitle": "Enter your mobile number to continue",
+    "google": "Continue with Google",
+    "legal": "By continuing, you agree to our",
+    "createAccount": "Create Account"
+  },
+  "roleSelection": {
+    "title": "Select Your Role",
+    "subtitle": "Choose how you want to use Book My Salon",
+    "customer": "Customer",
+    "customerDesc": "Find and book salon services near you",
+    "customerFeature1": "Explore nearby salons",
+    "customerFeature2": "Book slots easily",
+    "customerFeature3": "Get booking reminders",
+    "shopkeeper": "Salon Owner",
+    "shopkeeperDesc": "List your salon and manage bookings",
+    "ownerFeature1": "Register your salon",
+    "ownerFeature2": "Manage bookings",
+    "ownerFeature3": "Grow your business",
+    "continue": "Continue",
+    "footer": "You can change your role later from settings."
+  },
+  "shopkeeperAuth": {
+    "loginTitle": "Shopkeeper Login",
+    "loginSubtitle": "Manage your salon queue and bookings",
+    "signupTitle": "Register Your Salon",
+    "signupSubtitle": "Start managing your queue and bookings",
+    "ownerName": "Owner Name",
+    "ownerNamePlaceholder": "Enter your name",
+    "salonName": "Salon Name",
+    "salonNamePlaceholder": "Enter salon name",
+    "address": "Address",
+    "addressPlaceholder": "Enter salon address",
+    "services": "Services",
+    "servicesPlaceholder": "e.g., Haircut, Shave, Beard Trim",
+    "workingHours": "Working Hours",
+    "workingHoursPlaceholder": "e.g., 9:00 AM - 9:00 PM",
+    "registerCta": "Register Salon",
+    "newOwner": "New salon owner?",
+    "registerLink": "Register your salon",
+    "alreadyRegistered": "Already registered?",
+    "signInLink": "Sign in"
+  },
+  "perks": {
+    "caption": "Trusted by 500+ salons across India",
+    "verified": "Verified salons",
+    "queue": "Live queue updates",
+    "booking": "Instant booking"
+  },
+  "language": {
+    "title": "Language",
+    "labelShort": "Language",
+    "choose": "Choose your language",
+    "current": "Current"
+  }
+}

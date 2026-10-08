@@ -1,4 +1,10 @@
 {
   "name": "SalonApp",
-  "displayName": "SalonApp"
+  "displayName": "SalonApp",
+  "icon": "./assets/android-icon.png",
+  "splash": {
+    "image": "./src/assets/images/logo.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#1C1917"
+  }
 }
